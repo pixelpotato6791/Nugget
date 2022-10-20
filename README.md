@@ -1,4 +1,4 @@
 # nugget
-A waste of time of a project ft. GTK4 and Rust. Maybe a web browser idk
+A waste of time of a project ft. Iced and Rust.
 
 [Todo](https://github.com/pixelpotato6791/nugget/issues/2)
